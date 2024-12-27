@@ -42,5 +42,5 @@ Avant de démarrer, assurez-vous d'avoir les éléments suivants installés sur 
 1. Clonez le dépôt du projet :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/brikol.git](https://github.com/abbal-ilyas/Brikol.git
+   git clone https://github.com/abbal-ilyas/Brikol.git
    cd brikol
