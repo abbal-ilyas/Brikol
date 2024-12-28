@@ -1,7 +1,7 @@
 FROM eclipse-temurin:22-jdk-alpine as build
 
 # Copier le fichier JAR du backend
-COPY target/brikol-backend.jar /app/brikol-backend.jar
+COPY ./Brikol-0.0.1-SNAPSHOT.jar /app/brikol-backend.jar
 
 WORKDIR /app
 
